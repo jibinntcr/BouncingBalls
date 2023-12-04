@@ -1,18 +1,7 @@
 (function(){
     'use strict';
 
-    /*********************************************************
-        Notes about the physics in the simulations:
-        The balls are equally hard (and have equal weight), so they don't lose energy when bouncing between themself.
-        In the horizontal simulation, a ball loses energy when bouncing from a wall (the wall is harder and stationary) and air resistence.
-        The ball also loses energy from the air resistence, hitting the ground, rolling on the ground and gravity in the vertical simulation
-        (but not from spinning and some other 3d things possible in billiard and basketball).
 
-        Known issue:
-        In "vertical" space/direction when the bottom is full with balls (when there is no space for a new ball)
-        adding a new ball will make all balls go crazy (jumping randomly). This is because the balls will always
-        collide and won't lose energy from colliding (I'm not sure how to solve this).
-    *********************************************************/
 
     /**************
      * Ball class *
