@@ -14,7 +14,7 @@ To initiate the demo, follow these steps:
 2. Click on the screen area.
 3. Drag to interact with the simulation.
 
-Enjoy the demo!
+
 ---
 
 **Simulation Logic**
