@@ -6,9 +6,15 @@ Jibin N, MES College Marampally
 ## Mulearn ID
 jibinn@mulearn
 
-### To Start the Demo
-Select the options and Click on the Screen area 
+## To Start the Demo
 
+To initiate the demo, follow these steps:
+
+1. Select the desired options.
+2. Click on the screen area.
+3. Drag to interact with the simulation.
+
+Enjoy the demo!
 ---
 
 **Simulation Logic**
