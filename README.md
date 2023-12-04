@@ -6,6 +6,9 @@ Jibin N, MES College Marampally
 ## Mulearn ID
 jibinn@mulearn
 
+### To Start the Demo
+Select the options and Click on the Screen area 
+
 ---
 
 **Simulation Logic**
